@@ -1,8 +1,5 @@
 ## Olá! 👋
 
-
-Here are some ideas to get you started:
-
 - 🔭 Atualmente estou trabalhando com Desenvolvimento de Sistemas
 - 🌱 Atualmente estou aprendendo HTML, CSS, BOOTSTRAP, VUEJS, PHP, LARAVEL e POSTGRESQL 
 - 📫 Como chegar até mim: contato.lherculano@gmail.com ou herculano.silva@comparedistribuidora.com.br
@@ -11,8 +8,8 @@ Here are some ideas to get you started:
 
  <div>
   <a href="https://github.com/herculanosilva">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=herculanosilva&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=herculanosilva&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=herculanosilva&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=herculanosilva&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
 <div style="display: inline_block"><br>
