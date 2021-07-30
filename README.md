@@ -1,7 +1,7 @@
 ## Olá! 👋
 
-- 🔭 Atualmente estou trabalhando com Desenvolvimento de Sistemas
-- 🌱 Atualmente estou aprendendo HTML, CSS, BOOTSTRAP, VUEJS, PHP, LARAVEL e POSTGRESQL 
+- 🔭 Atualmente estou trabalhando com Desenvolvimento de Sistemas WEB
+- 🌱 Atualmente estou aprendendo PHP, LARAVEL e POSTGRESQL 
 - 📫 Como chegar até mim: contato.lherculano@gmail.com ou herculano.silva@comparedistribuidora.com.br
 
 ## Oi! Eu sou Herculano Silva 
