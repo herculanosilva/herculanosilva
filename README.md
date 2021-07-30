@@ -10,10 +10,7 @@
   <a href="https://github.com/herculanosilva">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=herculanosilva&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=herculanosilva&layout=compact&langs_count=7&theme=dark"/>
-<<<<<<< Updated upstream
-=======
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=herculanosilva&theme=dark"/>
->>>>>>> Stashed changes
+
   
 
 </div>
