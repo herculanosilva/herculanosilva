@@ -1,8 +1,10 @@
 ## Olá! 👋 Sou Herculano Silva
 
+- 👨‍🎓 Estudando: Gestão da Tecnologia da Informação no IF Sertão-PE;
 - 🔭 Atualmente estou trabalhando com Desenvolvimento de Sistemas WEB
 - 🌱 Estou aprendendo PHP, LARAVEL e POSTGRESQL 
 - 📫 Como chegar até mim: contato.lherculano@gmail.com ou herculano.silva@comparedistribuidora.com.br
+- 🎒 Principais ferramentas: Visual Studio Code and GitHub
 
 ##
 
@@ -14,15 +16,22 @@
   
 
 </div>
-
 <div style="display: inline_block"><br>
   <img align="center" alt="HS-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="HS-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-
   <img align="center" alt="HS-PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
   <img align="center" alt="HS-LARAVEL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg">
   <img align="center" alt="HS-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-plain-wordmark.svg">
 </div>
+ 
+<h2>Liguagens e Ferramentas:</h2>
+
+<code><img height="35" width="35" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/devicon/html5-original.svg'></code>
+<code><img height="35" width="35" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/devicon/devicon-original.svg'></code>
+<code><img height="35" width="35" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/devicon/devicon-original.svg'></code>
+<code><img height="35" width="35" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/devicon/devicon-original.svg'></code>
+<code><img height="35" width="35" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/devicon/devicon-original.svg'></code>
+
   
   ##
  
@@ -38,3 +47,4 @@
 </div>
 
  <img src="https://komarev.com/ghpvc/?username=herculanosilva&color=green" alt="herculanosilva" />
+ 
