@@ -38,5 +38,5 @@
 </div>
 
  ##
- <img src="https://komarev.com/ghpvc/?username=herculanosilva&color=green" alt="herculanosilva" />
+ <img src="https://komarev.com/ghpvc/?username=herculanosilva&color=brightgreen&label=Visualizacões+do+perfil" alt="herculanosilva"/>
  
