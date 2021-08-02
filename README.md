@@ -1,4 +1,4 @@
-## Olá! 👋 Sou Herculano Silva
+## Olá! 👋 Sou Herculano Silva <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
 - 👨‍🎓 Graduando em Gestão da Tecnologia da Informação no IF Sertão-PE;
 - 🔭 Atualmente estou trabalhando com Desenvolvimento de Sistemas WEB
@@ -10,8 +10,8 @@
 
  <div>
   <a href="https://github.com/herculanosilva">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=herculanosilva&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=herculanosilva&layout=compact&langs_count=7&theme=dark"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=herculanosilva&show_icons=true&theme=dark&include_all_commits=true&count_private=true&locale=pt-br"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=herculanosilva&layout=compact&langs_count=7&theme=dark&locale=pt-br"/>
 
 
 <h2>Liguagens e Ferramentas:</h2>
