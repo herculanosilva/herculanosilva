@@ -1,4 +1,4 @@
-## Olá! 👋 Sou Herculano Silva <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+## Olá! 👋 Sou Herculano Silva 
 
 - 👨‍🎓 Graduando em Gestão da Tecnologia da Informação no IF Sertão-PE;
 - 🔭 Atualmente estou trabalhando com Desenvolvimento de Sistemas WEB
