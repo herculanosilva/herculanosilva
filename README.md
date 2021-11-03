@@ -2,8 +2,8 @@
 
 - 👨‍🎓 Graduando em Gestão da Tecnologia da Informação no IF Sertão-PE;
 - 🔭 Atualmente estou trabalhando com Desenvolvimento de Sistemas WEB
-- 🌱 Estou aprendendo PHP, LARAVEL e POSTGRESQL 
-- 📫 Como chegar até mim: herculano.silva@comparedistribuidora.com.br ou contato.lherculano@gmail.com
+- 🌱 Em constante apredizado </> 
+- 📫 Contato: herculano.silva@comparedistribuidora.com.br ou contato.lherculano@gmail.com
 - 🎒 Principais ferramentas: Visual Studio Code, GitHub e Trello
 
 ##
